@@ -1,8 +1,8 @@
+<div align="center">
+
 # Ray Avila
 
-<div align="center">
-  
-  **Computer Engineering Technology | Embedded Systems & IoT Developer**
+**Computer Engineering Technology | Embedded Systems & IoT Developer**
   
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=4A9EFF&center=true&vCenter=true&width=600&lines=Building+Tomorrow's+Smart+Solutions;Bridging+Hardware+%26+Software+Worlds;Evolving+Through+Code+and+Innovation" alt="Typing Animation" />
   
